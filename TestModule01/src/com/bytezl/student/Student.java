@@ -5,4 +5,6 @@ package com.bytezl.student;
  * @DATE: 2021年12月31日 10:56 上午
  */
 public class Student {
+    private Integer age;
+    private String name;
 }
